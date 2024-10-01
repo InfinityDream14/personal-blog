@@ -60,6 +60,9 @@
     .projectTitle {
         font-size: 40px;
     }
+    .projectCreator{
+        top: 60%;
+    }
 
     .left-column,
     .right-column {
